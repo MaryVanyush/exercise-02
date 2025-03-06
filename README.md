@@ -14,5 +14,7 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require-dev": {
+        "psr/log": "^3.0"
+    }
 }
